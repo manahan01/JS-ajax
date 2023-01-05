@@ -1,2 +1,2 @@
 # JS-ajax
-this repo contain JS and ajax project based in each branch
+This repo contain JS and ajax project based in each branch
